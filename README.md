@@ -1,4 +1,4 @@
-# Labs1_3
+# Labs1_3_8_sem_opis
 
 #### Необходимое ПО
 * Android Studio
